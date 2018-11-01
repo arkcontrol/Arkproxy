@@ -15,7 +15,7 @@ Arkproxy 是极数云舟自主研发的一款完全兼容 MySQL的数据库中�
 
 1. 下载(v1.0)
 ```
-wget http://mirror.cloud-ark.com/public_package/release/arkproxy.tar.gz
+wget http://mirror.cloud-ark.com/public_package/arkproxy/arkproxy.tar.gz
 ```
 
 2. 解压  
